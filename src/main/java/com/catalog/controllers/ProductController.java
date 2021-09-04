@@ -20,7 +20,7 @@ import io.swagger.annotations.Api;
 
 
 @RestController
-@CrossOrigin(origins = "https://frontopenl.herokuapp.com")
+//@CrossOrigin(origins = "https://frontopenl.herokuapp.com")
 @RequestMapping("/product")
 public class ProductController {
 
